@@ -17,7 +17,7 @@
 1. Скачайте или клонируйте репозиторий:
 
    ```bash
-   git clone hhttps://github.com/Juonior/npm-to-graph.git
+   git clone hhttps://github.com/snaping1/config_2.git
    ```
 
 2. Установите необходимые зависимости:
